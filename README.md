@@ -69,5 +69,8 @@ It will drop the used stash once retrieved.
 ## Contributions
 Feel free to contribute to this project. You can suggest new features, report issues, or submit pull requests. Any help is appreciated!
 
+## Mentions
+Thanks to https://gitbetter.substack.com/p/automate-repetitive-tasks-with-custom
+
 ## License
 This project is under the MIT License.
