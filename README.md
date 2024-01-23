@@ -6,7 +6,7 @@ This repository, `custom-git-commands`, provides a set of custom commands to enh
     Clone this repository to your local machine using the following command:
 
     ```bash
-    git clone github.com/your-username/custom-git-commands.git
+    git clone git@github.com:sobitoks/custom-git-commands.git
     ```
 2. **Move the Folder: (Optional)**
     Move the cloned folder to the desired location on your system. For example:
