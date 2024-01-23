@@ -18,7 +18,7 @@ check_git_installed() {
     fi
 }
 
-check_git_installed $git_command
+check_git_installed "$git_command"
 
 
 if [ -z "$stash_name" ]
@@ -28,7 +28,7 @@ then
 fi
 
 echo "[$git_command] Retrieving stash \"$stash_name\" ..."
-stash_real_name=$(get_stash_real_name_by_desc $stash_name)
+stash_real_name=$(get_stash_real_name_by_desc "$stash_name")
 
 if [ -z "$stash_real_name" ]
 then
