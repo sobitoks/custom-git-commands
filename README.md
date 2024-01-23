@@ -53,6 +53,7 @@ git sand "MY CUSTOM NAME"
 ```
 
 ## Available Commands
+
 **git san:**
 The git-san command stands for git stash apply name. 
 It facilitates the retrieval of changes from a stash, 
